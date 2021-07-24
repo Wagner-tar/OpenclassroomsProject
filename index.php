@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h1>Un super site</h1>
+    <h1>Un super titre!</h1>
+    <p>My first repository in GitHub</p>
 </body>
 </html>
